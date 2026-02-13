@@ -1,1 +1,1 @@
-print('Analysis Successful.  You have cancer.')
+print('Analysis Successful.  You have cured cancer.')
